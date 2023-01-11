@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: minio.MinioWriteTest
+Main-Class: org.ty.blob.BlobFileWriter
 
